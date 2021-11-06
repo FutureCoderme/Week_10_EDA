@@ -2,7 +2,7 @@
 
 Submit a pdf document and EDA ipynb file which should contain following details:
 
-Team member's details : Group Name (give a name to your group), Name, Email, Country, College/Company, Specialization ( Data Science, NLP, Data Analyst)
+Details :Name, Email, Country, College/Company, Specialization ( Data Science, NLP, Data Analyst)
 
 Problem description
 
